@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @southgardendd
+- 👀 I’m interested in FiveM development
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on FiveM scripts
+- 📫 southgardenbeats@gmail.com
